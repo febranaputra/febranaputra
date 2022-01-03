@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @febranaputra
-- 👀 I’m interested in Software Developer
+- 👀 I’m interested in
 - 🌱 I’m currently learning C++ language
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
